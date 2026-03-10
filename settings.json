@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "SwoxyKoruma",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": "",
+    "ip": "NoteSMP999.aternos.me",
+    "port": 55522,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "NoteSMP en iyisi!",
+        "Merhaba",
+        "BenSwoxy"
       ]
     },
     "chat-log": true,
